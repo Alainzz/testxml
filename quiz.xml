@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <question>
+        <title>Question 1</title>
+        <text>Quelle est la capitale de la France ?</text>
+        <responseA>Paris</responseA>
+        <responseB>Lyon</responseB>
+        <responseC>Marseille</responseC>
+        <correct>responseA</correct>
+    </question>
+    <question>
+        <title>Question 2</title>
+        <text>Quelle est la capitale de l'italie ?</text>
+        <responseA>Venise</responseA>
+        <responseB>Rome</responseB>
+        <responseC>Rimini</responseC>
+        <correct>responseB</correct>
+    </question>
+    <question>
+        <title>Question 3</title>
+        <text>Quelle est la capitale d'israel ?</text>
+        <responseA>Bat-Yam</responseA>
+        <responseB>Jérusalem</responseB>
+        <responseC>Tel-Aviv</responseC>
+        <correct>responseB</correct>
+    </question>
+    <question>
+        <title>Question 4</title>
+        <text>Quelle est la capitale d'allemagne ?</text>
+        <responseA>Berlin</responseA>
+        <responseB>Hambourg</responseB>
+        <responseC>Munich</responseC>
+        <correct>responseA</correct>
+    </question>
+    <question>
+        <title>Question 5</title>
+        <text>Combien fait 3x5 ?</text>
+        <responseA>12</responseA>
+        <responseB>10</responseB>
+        <responseC>15</responseC>
+        <correct>responseC</correct>
+    </question>
+</quiz>
